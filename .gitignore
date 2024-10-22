@@ -1,0 +1,8 @@
+# Ignorar la carpeta build
+cmake-build-debug/
+
+# Ignorar todos los archivos .sh
+*.sh
+
+# Ignorar todos los archivos .zip
+*.zip

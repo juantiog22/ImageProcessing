@@ -1,0 +1,29 @@
+/*! \mainpage Título de la página principal
+
+@image html doxyque.png "Pie de foto"
+
+# Introducción
+
+El objetivo del proyecto es desarrollar una herramienta que permita cargar imágenes y aplicar una variedad de filtros personalizables, 
+basados en principios matemáticos. Estos filtros pueden incluir operaciones básicas como escalado de brillo, conversión a escala de grises, 
+o transformaciones más avanzadas como filtros de convolución para detección de bordes o difuminado. La implementación de estas técnicas 
+ofrecerá una comprensión profunda de cómo las imágenes digitales pueden ser transformadas mediante cálculos sobre matrices de píxeles, 
+proporcionando una plataforma interactiva para explorar estos conceptos.
+
+Este proyecto está dirigido a quienes desean adentrarse en el procesamiento digital de imágenes desde una perspectiva algorítmica y matemática, 
+aprovechando las operaciones fundamentales de manipulación de datos numéricos para alterar y mejorar visualmente fotografías y otros medios 
+gráficos.
+
+
+@image html invert.png
+## Negativo:
+
+Calcula el negativo de una imagen
+
+> __negativo__ \<FichImagenOriginal\> \<FichImagenDestino\>
+@param "<FichImagenOriginal>" Imagen PGM a la que se va a calcular
+@param <FichImagenDestino> Imagen PGM resultado de calcular el negativo
+
+
+
+*/
